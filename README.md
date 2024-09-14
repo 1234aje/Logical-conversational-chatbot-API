@@ -44,6 +44,7 @@ pip install -r requirement.txt
 - FastAPI
 - Uvicorn
 - Python-dotenv
+  
 These can be found in the ``` requirement.txt```: 
 
 # API Documentation
