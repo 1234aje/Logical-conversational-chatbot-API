@@ -17,6 +17,7 @@ Ensure you have the following installed before proceeding:
 
 - Python 3.7+
 - pip (Python package manager)
+  
 Additionally, you will need API keys for:
 
 - OpenAI for LLM integration.
